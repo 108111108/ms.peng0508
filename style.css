@@ -511,4 +511,13 @@ p{
     .listSkill3 h1{
     font-size: 5px;
 }   
+    .listSkill3{
+        flex-direction: column;
+        
+        
+    }
+    .skill img{
+        display: flex;
+        width: 120px;
+    }
 }

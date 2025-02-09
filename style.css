@@ -405,8 +405,7 @@ p{
 @media screen and (max-width: 768px){ 
     
     header h1{
-        left:50;
-        transform: translateX(-50%);
+        
         display: none;
     }
     .product{

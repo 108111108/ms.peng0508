@@ -248,7 +248,7 @@ body tr{
  .listSkill{
     border-radius: 5px;
     height:720px;
-    width: 1358px;
+    width: 1458px;
     left: 10px;
     padding: 20px 30px 10x;
     box-shadow: 10px 10px 50px 10px #121212;
@@ -486,12 +486,12 @@ p{
      .listSkill{
         flex-direction: column;
         height: 1500px;
-        width: 425px;
+        width: 405px;
         padding: 20px 20px 20px 20px;
 
     }
     .circle{
-        align-items: center;
+       right:30px;
     }
     .listSkill2{
         flex-direction: column;

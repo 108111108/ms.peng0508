@@ -403,13 +403,10 @@ p{
 }
 /* 響應式網頁語法 */
 @media screen and (max-width: 768px){ 
-    .header{
-        height:30px;
-    }
-        
+   
     header h1{
         
-        display: none;
+        font-size:5px
     }
     .header ul{
         margin-top: 30px;
